@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>All about cloud computing</title>
+  <title>VmGenerator</title>
   
   
   <link href="https://vmgen.github.io/atom.xml" rel="self"/>
   
   <link href="https://vmgen.github.io/"/>
-  <updated>2024-08-31T18:56:13.678Z</updated>
+  <updated>2024-09-01T03:06:58.637Z</updated>
   <id>https://vmgen.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://vmgen.github.io/2024/08/31/demos/"/>
     <id>https://vmgen.github.io/2024/08/31/demos/</id>
     <published>2024-08-31T09:08:53.897Z</published>
-    <updated>2024-08-31T18:56:13.678Z</updated>
+    <updated>2024-09-01T03:06:58.637Z</updated>
     
     <content type="html"><![CDATA[<p>云快速构建工具（待开发）：<a href="http://101.34.90.93:8090/">http://101.34.90.93:8090</a><br>金融电信云管理工具：<a href="http://101.34.90.93:8090/">http://101.34.90.93:8090</a><br>证券交易云管理工具：<a href="http://101.34.90.93:8090/">http://101.34.90.93:8090</a></p>]]></content>
     
@@ -33,6 +33,12 @@
     
     
     
+    <category term="project" scheme="https://vmgen.github.io/categories/project/"/>
+    
+    
+    <category term="Demo project" scheme="https://vmgen.github.io/tags/Demo-project/"/>
+    
+    <category term="Cloud computing" scheme="https://vmgen.github.io/tags/Cloud-computing/"/>
     
   </entry>
   
