@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>All about cloud computing</title>
+  
+  
+  <link href="https://vmgen.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://vmgen.github.io/"/>
+  <updated>2024-08-31T18:56:13.678Z</updated>
+  <id>https://vmgen.github.io/</id>
+  
+  <author>
+    <name>vmgen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>演示项目列表</title>
+    <link href="https://vmgen.github.io/2024/08/31/demos/"/>
+    <id>https://vmgen.github.io/2024/08/31/demos/</id>
+    <published>2024-08-31T09:08:53.897Z</published>
+    <updated>2024-08-31T18:56:13.678Z</updated>
+    
+    <content type="html"><![CDATA[<p>云快速构建工具（待开发）：<a href="http://101.34.90.93:8090/">http://101.34.90.93:8090</a><br>金融电信云管理工具：<a href="http://101.34.90.93:8090/">http://101.34.90.93:8090</a><br>证券交易云管理工具：<a href="http://101.34.90.93:8090/">http://101.34.90.93:8090</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;云快速构建工具（待开发）：&lt;a href=&quot;http://101.34.90.93:8090/&quot;&gt;http://101.34.90.93:8090&lt;/a&gt;&lt;br&gt;金融电信云管理工具：&lt;a href=&quot;http://101.34.90.93:8090/&quot;&gt;http://101</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
